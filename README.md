@@ -1,2 +1,2 @@
-# vueepress-themes-site
+# vuepress-themes-site
 The VuePress Themes General Documentation Site
